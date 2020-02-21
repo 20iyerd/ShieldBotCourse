@@ -1,4 +1,5 @@
-#include <Wire.h>
+#include <Adafruit_LSM9DS1.h>
+
 
 void setup() {
   
